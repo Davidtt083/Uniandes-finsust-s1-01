@@ -142,7 +142,7 @@ a {
 
 .princ {
   position: absolute;
-  background-color: #12102b;
+  background-color: #000000;
   color: #fff;
   border-radius: 50%;
   width: 100px;
@@ -418,8 +418,8 @@ a {
 }
 
 .activo {
-  color: #009fb4 !important;
-  border: solid #009fb4 4px;
+  color: #008AFF !important;
+  border: solid #008AFF 4px;
   z-index: 20;
   box-shadow: 26px 23px 86px -24px rgba(255, 255, 255, 0.75);
   -webkit-box-shadow: 26px 23px 86px -24px rgba(255, 255, 255, 0.75);
@@ -545,10 +545,10 @@ a {
 
 .texto1 {
   position: absolute;
-  margin-top: -403px;
+  margin-top: -361px;
   margin-left: 452px;
   width: 48%;
-  height: 362px;
+  height: 298px;
   background-color: rgba(255, 255, 255, 0.2);
   color: #000000;
   border-radius: 20px;
@@ -600,7 +600,7 @@ a {
 
 .btn1 {
   transition: all 0.5s;
-  margin-top: 56px;
+  margin-top: 91px;
   margin-left: 89px;
 }
 
