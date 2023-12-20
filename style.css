@@ -145,8 +145,8 @@ a {
   background-color: #000000;
   color: #fff;
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border: solid #fff 2px;
   margin-top: 18%;
   margin-left: 6.25%;
@@ -156,7 +156,7 @@ a {
   font-size: 56px;
   justify-content: center;
   text-align: center;
-  line-height: 105px;
+  line-height: 147px;
   transition: all 1s;
   box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
@@ -600,7 +600,7 @@ a {
 
 .btn1 {
   transition: all 0.5s;
-  margin-top: 91px;
+  margin-top: 119px;
   margin-left: 89px;
 }
 
@@ -611,8 +611,8 @@ a {
 
 .btn2 {
   transition: all 0.5s;
-  margin-top: 300px;
-  margin-left: -26px;
+  margin-top: 222px;
+  margin-left: 20px;
 }
 
 .btn2:hover {
@@ -622,8 +622,8 @@ a {
 
 .btn3 {
   transition: all 0.5s;
-  margin-top: 300px;
-  margin-left: 207px;
+  margin-top: 222px;
+  margin-left: 145px;
 }
 
 .btn3:hover {
@@ -633,4 +633,8 @@ a {
 
 .listas {
   margin-left: 25px;
+}
+.imagen_1{
+  width: 137px;
+  margin-left: 31%;
 }
